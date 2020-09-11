@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/1337k1ng/Dat3SemUge3.svg?branch=master)](https://travis-ci.org/1337k1ng/Dat3SemUge3)
 
 Ultra simple Java Project meant for a Travis introduction
 
